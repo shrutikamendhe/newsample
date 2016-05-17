@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    
+
     <title>ASP.NET 4.5 - MySQL Example</title>
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
@@ -35,7 +35,7 @@
     </nav>
     <div class="container theme-showcase">
         <div class="jumbotron">
-            <h1>MySQL example</h1>
+            <h1>MySQL Example</h1>
             <p>This is MySQL Example Application which demonstrate connectivity between ASP.NET 4.5 and MySQL on OpenShift 3 Cloud.</p>
         </div>
     </div>
@@ -83,6 +83,9 @@
             </div>
         </div>
     </form>
+    <div class="container theme-showcase" id="about">
+        <p>About </p>
+    </div>
     <div class="container theme-showcase">
         <footer>
             <p>© 2016 - Click2Cloud Inc.</p>
